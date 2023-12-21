@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/verysoda/onnu.git/static/css/main.335e79a6.css",
+    "main.js": "/verysoda/onnu.git/static/js/main.edc56c5a.js",
+    "static/js/787.50016b45.chunk.js": "/verysoda/onnu.git/static/js/787.50016b45.chunk.js",
+    "static/media/banner1.jpg": "/verysoda/onnu.git/static/media/banner1.dc520c31126744ff39bc.jpg",
+    "static/media/logo.png": "/verysoda/onnu.git/static/media/logo.1935c770dbbc22e53cf3.png",
+    "static/media/title.JPG": "/verysoda/onnu.git/static/media/title.0d73e685b92390198273.JPG",
+    "index.html": "/verysoda/onnu.git/index.html",
+    "main.335e79a6.css.map": "/verysoda/onnu.git/static/css/main.335e79a6.css.map",
+    "main.edc56c5a.js.map": "/verysoda/onnu.git/static/js/main.edc56c5a.js.map",
+    "787.50016b45.chunk.js.map": "/verysoda/onnu.git/static/js/787.50016b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.335e79a6.css",
+    "static/js/main.edc56c5a.js"
+  ]
+}
